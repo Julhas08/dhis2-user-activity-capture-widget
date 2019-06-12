@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// const baseURL = "https://bd-eregistry.dhis2.org/dhis/";
 const baseURL = "../../../";
 const fetchOptions = {
         headers: {
