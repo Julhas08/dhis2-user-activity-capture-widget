@@ -1,0 +1,22 @@
+{
+    "name": "USER ACTIVITY-BLANK WIDGET",
+    "description": "To know when a user visits a dashboard and for how long",
+    "version": "1.0",
+    "appType": "DASHBOARD_WIDGET",
+    "launch_path": "./index.html",
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "*"
+        }
+    },
+    "developer": {
+        "name": "Julhas Sujan",
+        "email": "julhaspustcse@gmail.com",
+        "url": "http://dhis2trainingland.com/",
+        "company": "UiO"
+    },
+    "icons": {
+        "48": "./user-activity.png"
+    }
+}
